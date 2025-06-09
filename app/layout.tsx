@@ -15,7 +15,7 @@ export const metadata: Metadata = {
 export const viewport = {
   maximumScale: 1, // Disable auto-zoom on mobile Safari
 };
-
+//
 const geist = Geist({
   subsets: ['latin'],
   display: 'swap',
